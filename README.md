@@ -2,14 +2,26 @@
 
 ###
 
-<p align="left">📖 Systems Development Technician from SENAI School Prof. Dr. Euryclides de Jesus Zerbini;<br><br>🖊️ Studying AI and Machine learning;<br><br>📝Looking for your first professional experience.</p>
+<p align="left">📖 Systems Development Technician from SENAI School Prof. Dr. Euryclides de Jesus Zerbini;<br><br>🖊️ Studying AI and Machine learning;<br><br>📝Looking for my first professional experience.</p>
+
+###
+
+<p align="left">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lightblueyz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightblueyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lightblueyz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightblueyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+###
+
+<h4 align="left">🚀Techs</h4>
 
 ###
 
@@ -61,18 +73,34 @@
 
 ###
 
+<p align="left">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+###
+
+<h4 align="left">🌐Social Midias</h4>
+
+###
+
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-de-paula-michelon-toniato-a4ba25335/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqjCHQxNfQTdTnblmLskHtJCCcrbpgSPgbfHCMbfXSkjGhWrXxTDMBqgFkpwKPKNPQVxbv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
+
+<p align="left">------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 ###
