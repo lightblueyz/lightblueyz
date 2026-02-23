@@ -12,8 +12,7 @@ Focused on clean code, performance, and scalable applications.
 
 📖 Systems Development Technician — SENAI Prof. Dr. Euryclides de Jesus Zerbini  
 🧠 Currently studying **Artificial Intelligence & Machine Learning**  
-🚀 Always learning new technologies and improving my stack  
-🎯 Looking for my **first professional opportunity** as a developer  
+🚀 Always learning new technologies and improving my stack   
 💡 Interested in building impactful and innovative solutions  
 
 ---
@@ -75,16 +74,12 @@ Focused on clean code, performance, and scalable applications.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
 
-  <a href="mailto:SEUEMAILAQUI">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
-  </a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqjCHQxNfQTdTnblmLskHtJCCcrbpgSPgbfHCMbfXSkjGhWrXxTDMBqgFkpwKPKNPQVxbv" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake.svg"/>
-</p>
+<picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lightblueyz/lightblueyz/output/github-contribution-grid-snake.svg"> </picture>
 
 ---
 
