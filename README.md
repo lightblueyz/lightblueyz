@@ -8,7 +8,7 @@ Focused on clean code, performance, and scalable applications.
 
 ---
 
-### 👨‍💻 About Me
+### - About Me
 
 - Systems Development Technician — SENAI Prof. Dr. Euryclides de Jesus Zerbini  
 - Currently studying **Artificial Intelligence & Machine Learning**  
