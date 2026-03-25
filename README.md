@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Tomás Toniato</h1>
+<h1 align="center">Hi, I'm Tomás Toniato</h1>
 <h3 align="center">Software Developer • AI Enthusiast • Technology Lover</h3>
 
 <p align="center">
@@ -10,14 +10,14 @@ Focused on clean code, performance, and scalable applications.
 
 ### 👨‍💻 About Me
 
-📖 Systems Development Technician — SENAI Prof. Dr. Euryclides de Jesus Zerbini  
-🧠 Currently studying **Artificial Intelligence & Machine Learning**  
-🚀 Always learning new technologies and improving my stack   
-💡 Interested in building impactful and innovative solutions  
+- Systems Development Technician — SENAI Prof. Dr. Euryclides de Jesus Zerbini  
+- Currently studying **Artificial Intelligence & Machine Learning**  
+- Always learning new technologies and improving my stack   
+- Interested in building impactful and innovative solutions  
 
 ---
 
-### 🚀 Tech Stack
+### - I've alredy used
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -118,7 +118,7 @@ Focused on clean code, performance, and scalable applications.
 
 ---
 
-### 🌐 Connect With Me
+### - Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tom%C3%A1s-de-paula-michelon-toniato-a4ba25335/" target="_blank">
