@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tomás Toniato</h1>
 <h3 align="center">Software Developer • AI Enthusiast • Technology Lover</h3>
 
-<img src="rain.gif" width="600" alt="demo" />
+<img align="center" src="rain.gif" width="600" alt="demo" />
 <p align="center">
 Passionate about building solutions through code, constantly learning new technologies and improving my skills.<br>
 Focused on clean code, performance, and scalable applications.
