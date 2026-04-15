@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="rain.gif" width="100%" height"10px" alt="demo" />
+<img src="night.gif" width="800" alt="demo" />
 <div/>
 <h1 align="center">Hi, I'm Tomás Toniato</h1>
 <h3 align="center">Software Developer • AI Enthusiast • Technology Lover</h3>
